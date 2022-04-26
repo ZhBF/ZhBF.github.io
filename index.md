@@ -4,4 +4,9 @@ Welcome to ZhBF's GitHub Pages
 ## 强化学习
 ### Q-Learng算法
 #### 实践：在一维离散世界中寻找宝藏
+```python
+
+print('hello')
+
+```
 
